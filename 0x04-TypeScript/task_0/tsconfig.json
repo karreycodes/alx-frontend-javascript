@@ -1,7 +1,5 @@
-
 {
   "compilerOptions": {
-    "skipLibCheck": true,
     "outDir": "./dist/",
     "sourceMap": true,
     "noImplicitAny": true,
